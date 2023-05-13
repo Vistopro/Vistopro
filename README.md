@@ -2,7 +2,7 @@
 
 👋 Hello, I'm Víctor, an Industrial Engineer with 5️⃣ years of experience. However, my passion for the world of technology and software development has led me to make a career change. 🌟 Currently, **I am a student at 42 Málaga**, where I am honing my skills in programming and software development through project-based learning, and dedicated to learning and growing in the field of Information Technology and Software Development.
 
-My experience and skills include Java ☕, Python 🐍, C, Git 🌳, SQL 🗃️. I am also a self-taught learner 📚, which has allowed me to acquire knowledge and skills in new technologies.
+🎓 Currently, I am expanding my knowledge in various programming languages such as Java ☕️, Python 🐍, C, Javascript, HTML, and CSS, as well as frameworks like NodeJS and Angular. I am also acquiring skills in designing databases using MySQL and PostgreSQL 🗃️, and in version control with Git 🌳. I am excited to continue learning and growing in these areas! 💪🌟
 
 👉 This is my GitHub repository 📂, where I share my personal projects and learning resources. Here, you can find my projects that demonstrate my skills in various programming languages and technologies. 💻
 
